@@ -1,0 +1,61 @@
+tablue Notes
+Blue pill --Dimesion
+green pill --measure
+dates are treated as dimesion- Date can be discreet--hierchy 
+dates can be drilled up and drilled down
+
+
+
+
+Class 3 
+stock market
+
+candle stick charts
+bowling charts
+dual access charts---has 2 y axis
+
+Reliance stock data
+WAP- Weighted Average price
+spread high 
+
+CLass 4
+-------Joins and Relationships--------------------
+profit margin analysis-- geographic leval and customer level
+merging the two tables list orders and order breakdown
+orderID is primary key
+unique in first table but repeated in second table
+joins make tables wider
+
+Everytime there a match a new row is created
+
+Data Management Techniques
+joins relationships 
+Joins happen on physical layer in tabluea
+profit margin=sum (profit)/sum(sale)
+  
+
+Class 6
+
+Relationships--- happens at logical level
+tables are not physically merged
+
+for joins relationship exists at row level
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
